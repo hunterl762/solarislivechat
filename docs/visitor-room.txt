@@ -1,0 +1,1 @@
+Each conversation uses a Socket.IO room named `conversation:<uuid>`. Visitors join their own conversation room and agents join a room when they select/watch that conversation.
