@@ -1,0 +1,1 @@
+The service uses PORT from .env and defaults to 3010. In production, keep this internal and route the public HTTPS endpoint through your reverse proxy.
