@@ -1,0 +1,1 @@
+New visitor messages for non-selected conversations trigger the admin tone. If browser Notification permission is granted and the admin page is hidden, a desktop notification includes the visitor name and message text.
