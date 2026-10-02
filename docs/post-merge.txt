@@ -1,0 +1,1 @@
+After merge/pull: npm install, import the appropriate SQL file, restart Node, sign in at /chat/admin, enable browser notifications, and add the widget includes to the Solaris Tech Services website.
