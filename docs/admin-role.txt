@@ -1,0 +1,1 @@
+Use an `admin` role for trusted Solaris live-chat administrators who need to create staff accounts. Use `agent` for support staff who only need conversation operations and notifications.
