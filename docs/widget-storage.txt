@@ -1,0 +1,1 @@
+The widget stores the visitor conversation ID under localStorage key `solarisChatConversationId`, allowing the same browser to rejoin the in-memory conversation while the Node process remains running.
