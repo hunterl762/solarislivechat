@@ -1,0 +1,1 @@
+The admin panel collapses navigation and conversation layout at smaller breakpoints. The visitor widget is fixed to the lower-right corner; host-site CSS can override the widget selectors if additional mobile sizing is required.
