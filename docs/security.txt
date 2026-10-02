@@ -1,0 +1,1 @@
+Do not commit .env. Use HTTPS, a dedicated MySQL account, a long JWT secret, and strong staff passwords. Only admin-role JWTs can create staff accounts through the admin API.

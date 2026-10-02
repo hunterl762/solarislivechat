@@ -1,0 +1,1 @@
+Both admin and visitor clients prefix the original browser title with `(N)` while unread messages exist and restore the original title after unread state is cleared.

@@ -1,0 +1,1 @@
+Agents can close the selected conversation. The server changes its in-memory status to closed, emits `conversation:closed` to the visitor, and broadcasts the updated conversation to connected agents.

@@ -1,0 +1,1 @@
+Runtime: chat-server.js (auth APIs/presence), chat-admin.html (dashboard), chat-widget.js (visitor UI/notifications), chat-widget.css (override hook).

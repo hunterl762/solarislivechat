@@ -1,0 +1,1 @@
+visitor:join, visitor:ready, agent:join, agent:ready, agent:error, agent:watch, chat:message, conversation:update, conversation:close, conversation:closed, agent:presence

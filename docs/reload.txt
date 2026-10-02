@@ -1,0 +1,1 @@
+Reloading the admin page during the same browser session reuses the JWT from sessionStorage and automatically rejoins the agent socket if the token is still valid.

@@ -1,0 +1,1 @@
+Use the search box above Conversations to filter loaded conversations by visitor name or email. Search is immediate and client-side.

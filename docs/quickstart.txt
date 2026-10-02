@@ -1,0 +1,7 @@
+1. Configure .env
+2. Import SQL
+3. npm install
+4. npm run create-admin
+5. npm start
+6. Open /chat/admin
+7. Add chat-widget.js to the website

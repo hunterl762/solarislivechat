@@ -1,0 +1,1 @@
+If desktop notifications do not appear: confirm HTTPS, browser permission, and that the tab is hidden. If sound does not play, interact with the page first because browsers can block autoplay audio. If agent count is zero, confirm an authenticated admin/agent Socket.IO session is connected.

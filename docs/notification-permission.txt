@@ -1,0 +1,1 @@
+In the admin panel click Notifications, then Allow in the browser prompt. Visitors may receive desktop notifications only if the host site has already obtained notification permission; widget badges and sound do not require Notification API permission.

@@ -1,0 +1,1 @@
+The admin navigation includes Dashboard, Agents, Notifications, and Logout. Dashboard handles conversations; Agents handles staff creation/listing; Notifications requests browser permission; Logout clears the session JWT.

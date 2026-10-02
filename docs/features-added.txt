@@ -1,0 +1,1 @@
+Admin dashboard, agent management, agent presence, visitor widget, two-sided notification sounds, desktop notifications, unread badges, title counters and support availability.

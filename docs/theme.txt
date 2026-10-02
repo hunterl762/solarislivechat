@@ -1,0 +1,1 @@
+The admin panel and widget use the Solaris dark purple/pink visual language. Core widget selectors are documented in chat-widget.css for site-specific overrides.

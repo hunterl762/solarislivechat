@@ -1,0 +1,6 @@
+Same-origin embed:
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/chat-widget.js"></script>
+
+Place these immediately before the website closing body tag.

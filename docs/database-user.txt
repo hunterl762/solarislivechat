@@ -1,0 +1,1 @@
+Production should use a dedicated MySQL account scoped to the Solaris chat database rather than the MySQL root account. Store those credentials only in the local .env file.

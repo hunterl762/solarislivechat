@@ -1,0 +1,1 @@
+Implemented: redesigned admin console; metrics; search; unread badges; online agent presence; agent/admin account creation; visitor widget; notification sounds; browser notifications; title counters; support online status; deployment/setup/security docs.

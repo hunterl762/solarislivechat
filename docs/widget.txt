@@ -1,0 +1,5 @@
+Same-origin integration:
+<script src="/socket.io/socket.io.js"></script>
+<script src="/chat-widget.js"></script>
+
+The widget persists its conversation ID in localStorage and displays online support presence and unread agent replies.

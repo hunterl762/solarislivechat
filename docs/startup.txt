@@ -1,0 +1,1 @@
+On successful database verification the server logs `Solaris Live Chat running at http://localhost:<PORT>`. A MySQL connection failure is logged and exits the process.

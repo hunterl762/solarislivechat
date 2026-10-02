@@ -1,0 +1,1 @@
+The visitor widget can carry visitor name/email fields when supplied by an integration. Production deployments should disclose support-chat data handling in the site's privacy policy and apply appropriate retention controls when persistent conversation storage is added.

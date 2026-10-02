@@ -1,0 +1,3 @@
+Agents: sound + unread conversation badge + title counter + desktop notification.
+Visitors: sound + minimized widget badge + title counter + desktop notification.
+Desktop notifications require permission. Production browser notifications should use HTTPS.

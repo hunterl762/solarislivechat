@@ -1,0 +1,1 @@
+The staff listing requires a valid JWT. Staff account creation additionally requires the JWT role to be `admin`. Socket agent access also requires a valid signed JWT.

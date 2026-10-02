@@ -1,0 +1,1 @@
+Feature branch includes admin dashboard, staff management API, visitor widget, agent presence, unread counters, notification sounds, browser notifications, setup docs and database upgrade marker.

@@ -1,0 +1,1 @@
+The Dashboard page combines live metrics, searchable conversation list, selected conversation history, reply composer and Close Chat action in one responsive workspace.

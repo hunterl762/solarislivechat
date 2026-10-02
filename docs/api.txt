@@ -1,0 +1,4 @@
+POST /api/chat/admin/login
+GET /api/chat/admin/users
+POST /api/chat/admin/users (admin only)
+GET /chat/health

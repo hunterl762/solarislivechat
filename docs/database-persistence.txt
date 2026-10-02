@@ -1,0 +1,1 @@
+MySQL currently persists staff/admin accounts only. Conversation and message persistence is not part of this PR; current chat state remains memory-backed and resets with the Node process.

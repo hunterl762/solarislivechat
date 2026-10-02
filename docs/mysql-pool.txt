@@ -1,0 +1,1 @@
+The Node service uses mysql2/promise connection pooling with a default connection limit of 10 and utf8mb4 character handling.

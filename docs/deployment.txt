@@ -1,0 +1,1 @@
+Use a reverse proxy with HTTPS in production. Keep Node on an internal port, preserve WebSocket upgrades for Socket.IO, and do not expose .env or MySQL publicly.

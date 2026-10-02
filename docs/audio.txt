@@ -1,0 +1,1 @@
+Notification tones are generated with the Web Audio API and require no external audio asset. Some browsers block Web Audio until the user interacts with the page.

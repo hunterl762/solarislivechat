@@ -1,0 +1,1 @@
+The server trims incoming chat text and limits each accepted message to 2,000 characters before broadcasting it to participants.

@@ -1,0 +1,1 @@
+Admin login returns a signed JWT. The browser stores the token in sessionStorage, so closing the browser session clears the local token. JWT lifetime is controlled by JWT_EXPIRES_IN in .env.

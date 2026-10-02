@@ -1,0 +1,1 @@
+The Node process tracks authenticated agent sockets and broadcasts `agent:presence` on connect/disconnect. The visitor widget uses this event to display Support online or Leave us a message.

@@ -1,0 +1,1 @@
+Logout clears the Solaris chat admin JWT from sessionStorage and reloads the admin page, returning the browser to the sign-in screen.

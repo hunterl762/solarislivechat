@@ -1,0 +1,1 @@
+The admin panel uses sessionStorage, Notification API, Web Audio API, fetch and Socket.IO. Use a current browser and serve the production console over HTTPS.

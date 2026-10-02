@@ -1,0 +1,1 @@
+GET /chat/health verifies MySQL connectivity and reports the current online-agent socket count. A database failure returns HTTP 503.

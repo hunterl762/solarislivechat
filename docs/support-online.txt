@@ -1,0 +1,1 @@
+At least one authenticated agent socket causes the widget to display Support online. When the final authenticated agent disconnects, connected widgets receive the updated zero-agent presence state.

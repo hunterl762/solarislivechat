@@ -1,0 +1,1 @@
+When an agent closes a conversation, the visitor widget receives `conversation:closed` and changes its header status to Conversation closed.

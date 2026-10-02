@@ -1,0 +1,1 @@
+Deploy the public website and chat endpoints over HTTPS. Browser Notification API support is restricted to secure contexts in normal production deployments, and secure WebSocket transport should be used through the HTTPS reverse proxy.

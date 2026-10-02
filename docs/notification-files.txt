@@ -1,0 +1,1 @@
+Admin notifications live in chat-admin.html; visitor notifications live in chat-widget.js; agent presence is emitted from chat-server.js.

@@ -1,0 +1,1 @@
+The staff creation endpoint does not accept password hashes from clients. It accepts a plaintext password over the authenticated HTTPS request, validates length, hashes it server-side with bcrypt, and stores only the hash.

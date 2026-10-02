@@ -1,0 +1,1 @@
+Invalid username/password returns HTTP 401. Missing credentials return HTTP 400. Database/internal login failures return HTTP 500. The admin sign-in screen displays the API error text.

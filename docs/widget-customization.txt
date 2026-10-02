@@ -1,0 +1,1 @@
+The widget injects default Solaris styling so it works from one JS include. Override selectors documented in chat-widget.css from the host website when you need different dimensions, placement or theme details.
