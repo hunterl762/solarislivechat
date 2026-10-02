@@ -1,0 +1,1 @@
+Authenticated agent sockets are stored by socket ID in memory. Presence is recalculated and broadcast after successful agent authentication and when an authenticated agent disconnects.
