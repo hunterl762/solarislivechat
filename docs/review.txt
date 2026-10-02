@@ -1,0 +1,1 @@
+Review focus: authenticated admin APIs, Socket.IO role checks, browser notification permission behavior, same-origin widget deployment, responsive admin layout, and current in-memory conversation limitation.
