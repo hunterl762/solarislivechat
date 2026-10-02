@@ -1,0 +1,1 @@
+Create the initial administrator with `npm run create-admin`. Additional admin/agent accounts can then be created from the Agents page in `/chat/admin`. Passwords must be at least 12 characters and are stored as bcrypt hashes.
