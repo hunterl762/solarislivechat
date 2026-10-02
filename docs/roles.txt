@@ -1,0 +1,2 @@
+admin: full chat access plus staff account creation.
+agent: chat access, replies, closing, and notifications; cannot create staff accounts.
