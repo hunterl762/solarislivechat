@@ -1,0 +1,1 @@
+Smoke test: sign in, enable notifications, open widget in a second browser, send visitor message, verify admin notification, reply, verify visitor notification, create an agent account, sign in as that agent, and close the chat.
