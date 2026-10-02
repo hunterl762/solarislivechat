@@ -1,0 +1,1 @@
+From Agents, an administrator enters username, display name, temporary password and role, then selects Create. The server validates the request, bcrypt-hashes the password and inserts the new chat_admins record.
