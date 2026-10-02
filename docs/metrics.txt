@@ -1,0 +1,1 @@
+Dashboard metrics show open conversations, total loaded conversations, unread visitor messages, and authenticated online-agent socket count.
