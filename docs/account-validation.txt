@@ -1,0 +1,1 @@
+Staff usernames accept letters, digits, underscore, dot and hyphen and must be 3-64 characters. Display names must be at least 2 characters. New staff passwords must be at least 12 characters.
