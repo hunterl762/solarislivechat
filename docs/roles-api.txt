@@ -1,0 +1,1 @@
+Role authorization is enforced server-side. Hiding UI controls is not treated as authorization; `/api/chat/admin/users` POST explicitly rejects non-admin JWTs with HTTP 403.
