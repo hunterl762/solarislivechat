@@ -1,0 +1,1 @@
+Staff listing and staff creation endpoints are implemented in chat-server.js and authenticated using bearer JWT middleware.
