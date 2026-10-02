@@ -1,0 +1,1 @@
+Current conversations remain in server memory and are cleared by a Node restart. Staff accounts persist in MySQL. Cross-origin widget hosting requires explicit Socket.IO/CORS configuration. Persistent chat history is a future database migration.
