@@ -1,0 +1,1 @@
+Attempting to create a staff username that already exists returns HTTP 409 with `Username already exists.` and does not alter the existing account.
