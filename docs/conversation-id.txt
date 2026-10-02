@@ -1,0 +1,1 @@
+New visitor conversations use `crypto.randomUUID()`. The visitor browser stores the returned ID and sends it on subsequent joins to reconnect to the same in-memory conversation when available.
