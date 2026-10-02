@@ -1,0 +1,1 @@
+Agent messages include the authenticated agent display name in the Socket.IO message payload, allowing visitors and other staff to see who sent the support reply.
