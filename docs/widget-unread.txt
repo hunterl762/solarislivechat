@@ -1,0 +1,1 @@
+Agent replies received while the visitor widget is minimized increment the Live Support badge. Opening the widget clears its local unread count and restores the original browser title.
