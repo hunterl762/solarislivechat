@@ -1,0 +1,1 @@
+Fresh installs: import sql/schema.sql. Existing installs: import sql/admin-panel-upgrade.sql. Staff authentication uses the chat_admins table and bcrypt password hashes.
