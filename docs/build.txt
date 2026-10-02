@@ -1,0 +1,1 @@
+No frontend compile step is required. Admin UI and widget are served directly by Express/Socket.IO.
