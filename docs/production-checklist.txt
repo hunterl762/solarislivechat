@@ -1,0 +1,1 @@
+Production checklist: HTTPS enabled; WebSocket proxying enabled; .env ignored; unique JWT secret configured; dedicated MySQL user configured; first admin created; browser notifications tested; visitor widget tested; backups configured for MySQL staff data.
