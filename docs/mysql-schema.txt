@@ -1,0 +1,1 @@
+The existing chat_admins schema already supports admin/agent roles, active status and last-login tracking. The optional admin-panel migration adds only a schema metadata table/version marker.
