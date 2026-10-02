@@ -1,0 +1,2 @@
+Branch: admin-panel-live-notifications
+Purpose: Solaris admin dashboard, staff management and two-sided live chat notifications.
