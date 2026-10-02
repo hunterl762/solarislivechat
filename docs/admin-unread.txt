@@ -1,0 +1,1 @@
+Visitor messages for a conversation other than the currently selected one increment that conversation's unread badge and the dashboard total. Selecting the conversation clears its local unread count.
