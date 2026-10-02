@@ -1,0 +1,1 @@
+The Agents page loads username, display name, role and active/disabled state from the authenticated `/api/chat/admin/users` endpoint.
