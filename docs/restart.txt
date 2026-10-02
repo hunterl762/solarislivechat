@@ -1,0 +1,1 @@
+Restarting the Node process clears current conversations because message history is still in memory. MySQL staff accounts are unaffected. A future migration can persist conversations/messages in MySQL.
