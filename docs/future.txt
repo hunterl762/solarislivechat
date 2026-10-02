@@ -1,0 +1,1 @@
+Recommended next upgrade: move conversations/messages into MySQL, add assignment/history/read receipts, persist unread state, and add account activation/deactivation and password-reset controls to the admin panel.
