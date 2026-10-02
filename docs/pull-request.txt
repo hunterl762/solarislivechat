@@ -1,0 +1,3 @@
+Title: Admin Panel & Live Chat Notifications
+Base: main
+Head: admin-panel-live-notifications
