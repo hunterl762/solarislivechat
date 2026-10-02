@@ -1,0 +1,1 @@
+JWT_SECRET must be at least 32 characters. Login JWTs include staff ID, username, display name and role and expire according to JWT_EXPIRES_IN (default 12h).
