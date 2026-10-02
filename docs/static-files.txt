@@ -1,0 +1,1 @@
+The current Express configuration serves repository-root static files. Keep secrets outside that directory and rely on .gitignore for .env; production hardening can move public assets into a dedicated public directory.
