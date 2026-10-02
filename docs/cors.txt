@@ -1,0 +1,1 @@
+The current Socket.IO server is configured for same-origin use (`cors.origin=false`). If Solaris Tech Services and Solaris Live Chat run on separate public origins, explicitly allow only the trusted website origin and initialize the browser Socket.IO client with the chat-service URL.
