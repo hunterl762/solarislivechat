@@ -1,0 +1,1 @@
+The service verifies MySQL with `SELECT 1` before listening. If the initial database connection fails, Node logs the error and exits rather than serving a partially functional authentication service.
