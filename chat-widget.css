@@ -1,0 +1,1 @@
+/* Solaris Live Chat widget styles are injected by chat-widget.js so the widget can be embedded with only Socket.IO + one script. Override #slcBtn, #slcBox, #slcHead, #slcMsgs, .slm and #slcForm here if the host website needs custom styling. */
