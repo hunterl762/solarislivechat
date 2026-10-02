@@ -1,0 +1,1 @@
+The admin conversation search filters the currently loaded live conversation list by visitor name or email without a page reload.
