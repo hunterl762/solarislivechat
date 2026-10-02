@@ -1,0 +1,1 @@
+Authenticated agent sockets join the shared `agents` Socket.IO room. Conversation updates are broadcast there so every connected support console can refresh its conversation list and metrics.
