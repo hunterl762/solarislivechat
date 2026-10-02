@@ -1,0 +1,1 @@
+Unread state is maintained client-side for the active browser session. Agents get per-conversation unread badges and a total dashboard count. Visitors get a minimized-widget unread badge. Both sides receive browser-title counters.
