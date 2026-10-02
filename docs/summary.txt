@@ -1,0 +1,1 @@
+Solaris Live Chat now has a dashboard-style admin interface and two-sided real-time notifications on this feature branch.
