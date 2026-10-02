@@ -1,0 +1,1 @@
+An agent socket becomes privileged only after `agent:join` verifies the supplied JWT. Agent-only message sending, watching and conversation closing check socket role/user state on the server.
