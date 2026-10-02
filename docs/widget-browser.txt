@@ -1,0 +1,1 @@
+The widget uses localStorage for conversation identity and the Notification/Web Audio APIs for alerts. Test the production target browsers because notification and autoplay policies vary by browser/device.
