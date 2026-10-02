@@ -1,0 +1,1 @@
+Primary changed runtime files: chat-admin.html, chat-server.js, chat-widget.js. Supporting setup and migration documentation included.
