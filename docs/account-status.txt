@@ -1,0 +1,1 @@
+Login requires `chat_admins.is_active=1`. The current admin dashboard lists active/disabled status. Account activation/deactivation controls are intentionally left for a follow-up management API.
