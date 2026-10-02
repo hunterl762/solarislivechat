@@ -1,0 +1,1 @@
+The administrator notification audio is derived from the user-provided universfield-new-notification-07-210334.mp3 asset. The deployed admin panel uses /sounds/admin-notification.mp3.
