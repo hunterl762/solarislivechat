@@ -1,0 +1,1 @@
+The admin panel is self-contained in chat-admin.html and uses the Socket.IO client served by the Node service. It does not require a separate frontend build step.
