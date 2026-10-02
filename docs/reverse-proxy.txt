@@ -1,0 +1,1 @@
+The reverse proxy must forward normal HTTP requests and WebSocket upgrade traffic to the Node live-chat port. Use the public HTTPS origin for browser notification support.
