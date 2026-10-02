@@ -1,0 +1,6 @@
+Admin console route: /chat/admin
+Health route: /chat/health
+Public widget: /chat-widget.js
+Admin accounts: MySQL chat_admins table
+Authentication: JWT after bcrypt password verification
+Notifications: sound, unread badges, title counter, optional desktop notification
