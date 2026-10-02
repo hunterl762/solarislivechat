@@ -1,0 +1,1 @@
+Agent replies received while the widget is minimized trigger the visitor tone, increment the widget/title unread count, and can display a desktop notification while the page is hidden if browser permission is already granted.
